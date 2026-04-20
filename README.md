@@ -1,6 +1,6 @@
 # Moritz Quast
 
-Developer & Designer based in Bonn.  
+Developer & Designer.  
 I build things I wish existed.
 
 ---
